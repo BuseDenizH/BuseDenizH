@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello World! 👋
+I am a highly motivated and responsible undergraduate student who continuously improves her soft and hard skills for advancing herself professionally in many fields. I am experienced in team management and coordination, and also prone to teamwork.🫡
 
++ #### 🌍 I am currently studying Computer Science and Engineering in [Gebze Technical University](https://www.gtu.edu.tr)/🇹🇷 and I've done my exchange semester in [EPITA](https://www.epita.fr/en/homepage/)/🇫🇷 with Erasmus !
+
+- 🔭 I’m currently working on AI and Back-End Projects
+- 🌱 I’m currently learning NLP, FastAPI and Bot Frameworks
+- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/buse-deniz-hanayli/)
 <!--
 **BuseDenizH/BuseDenizH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
