@@ -3,8 +3,8 @@ I am a highly motivated and responsible undergraduate student who continuously i
 
 + #### 🌍 I am currently studying Computer Science and Engineering in [Gebze Technical University](https://www.gtu.edu.tr)/🇹🇷 and I've done my exchange semester in [EPITA](https://www.epita.fr/en/homepage/)/🇫🇷 with Erasmus !
 
-- 🔭 I’m currently working on AI and Back-End Projects
-- 🌱 I’m currently learning NLP, FastAPI and Bot Frameworks
+- 🔭 I’m interested in AI and Full Stack Projects
+- 🌱 I’m currently working on Mobile Applications
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/buse-deniz-hanayli/)
 <!--
 **BuseDenizH/BuseDenizH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
